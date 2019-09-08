@@ -1,0 +1,66 @@
+body{
+    font-size: 16px;
+    background-color: #f5f5f5;
+}
+.card{
+    border-radius: 0.5rem;
+    background-color: #fff;
+    width: 31.7rem;
+    margin: 7rem auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+/*header section*/
+header{
+    padding: 1rem;
+}
+.redR{
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgb(219, 49, 43);
+    width: 1rem;
+    float: left;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+}
+.topic{
+    margin: 0 auto;
+    float: left;
+    line-height: 0;
+}
+.date{
+    color: gray;
+}
+.more{
+    text-align: right;
+}
+/*image and content section*/
+p{
+    line-height: 2rem;
+}
+.content{
+    padding: 1rem;
+    color: gray;
+}
+/*icons section*/
+.material-icons{
+    color: gray;
+    padding: 1rem;
+    font-size: 2rem;
+}
+.material-icons:hover{
+    background-color: #f5f5f5;
+    border-radius: 50%;
+    cursor: pointer;
+}
+/*footer section*/
+footer{
+    padding: 1rem;
+}
+.expand{
+    text-align: right;
+}
+.left-two{
+    float: left;
+}
