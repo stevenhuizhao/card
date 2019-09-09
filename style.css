@@ -1,3 +1,4 @@
+/* globle */
 body{
     font-size: 16px;
     background-color: #f5f5f5;
@@ -27,7 +28,7 @@ header{
 .topic {
     padding: 0 5rem;
     float: left; 
-    
+
 }
 .date {
     color: gray;
