@@ -24,13 +24,12 @@ header{
     margin: 0.5rem;
     border-radius: 50%;
 }
-.topic{
-    
+.topic {
     padding: 0 5rem;
-    float: left;
+    float: left; 
     
 }
-.date{
+.date {
     color: gray;
 }
 .more{
